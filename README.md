@@ -1,5 +1,7 @@
 # Book Recommendation System With LLM
 
+![UI](https://github.com/Swuzz123/Book-Recommendation/blob/master/demo/UI_demo.png)
+
 ## Introduction
 With the rapid increase in online content and widespread access to Internet-connected devices, users are increasingly overwhelmed by the sheer volume of information available. This overload makes it challenging for them to decide which content to engage with or which products to buy. This project aims to support an online book retailer that has seen a drop in sales, largely because customers are struggling with too many options and finding it hard to choose which books to purchase.
 
@@ -119,5 +121,6 @@ python gradio-dashboard.py
 ```
 
 ## Demo
+![demo](https://github.com/Swuzz123/Book-Recommendation/blob/master/demo/demo_app.gif)
 
 ## _**Feel free to use!**_

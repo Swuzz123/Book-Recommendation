@@ -5,7 +5,8 @@ transformers==4.41.0
 sentence-transformers==2.7.0
 gradio
 python-dotenv
-langchain langchainhub
+langchain
+langchainhub
 langchain-chroma
 langchain_huggingface
 langchain_community

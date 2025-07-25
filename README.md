@@ -122,9 +122,6 @@ python gradio-dashboard.py
 
 ## Demo
 
-<video width="1000" controls>
-  <source src="https://github.com/Swuzz123/Book-Recommendation/demo/demo_app.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://github.com/Swuzz123/Book-Recommendation/raw/master/demo/demo_app.gif" width="1000">
 
 ## _**Feel free to use!**_

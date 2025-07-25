@@ -1,12 +1,15 @@
-langchain langchainhub
-transformers==4.41.0 
-sentence-transformers==2.7.0
 tensorflow==2.15.0
-numpy==1.23.5 
+numpy==1.23.5
 pandas==1.5.3
-huggingface_hub
+transformers==4.41.0
+sentence-transformers==2.7.0
+gradio
+python-dotenv
+langchain langchainhub
+langchain-chroma
 langchain_huggingface
-transformers
+langchain_community
+huggingface_hub
 huggingface_hub[hf_xet]
 hf_xet
-gradio
+
